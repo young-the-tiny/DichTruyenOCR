@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>pepe.png</file>
+    <file>advance.svg</file>
+    <file>colordownload.png</file>
+    <file>down-chevron.png</file>
+    <file>eraser.png</file>
+    <file>forward.png</file>
+    <file>forward1.png</file>
+    <file>gear.png</file>
+    <file>manga.png</file>
+    <file>menu.png</file>
+    <file>play.png</file>
+    <file>play1.png</file>
+    <file>translation.png</file>
+    <file>whiteBG.jpg</file>
+  </qresource>
+</RCC>
